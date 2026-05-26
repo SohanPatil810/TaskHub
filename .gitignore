@@ -1,0 +1,74 @@
+# ========================
+# Environment & Secrets
+# ========================
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.p12
+*.jks
+*.keystore
+*.backup
+
+# ========================
+# Node.js / Frontend
+# ========================
+node_modules/
+dist/
+dist-ssr/
+build/
+*.local
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ========================
+# Java / Maven / Spring Boot
+# ========================
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+replay_pid*
+
+# ========================
+# IDE Files
+# ========================
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.factorypath
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# ========================
+# Misc
+# ========================
+*.tmp
+*.bak
+*.swp
+*~
+.cache/
