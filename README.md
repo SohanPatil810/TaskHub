@@ -163,6 +163,16 @@ CREATE DATABASE IF NOT EXISTS taskhub;
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
+## 👨‍💻 Author
+Sohan Patil
+
+GitHub: https://github.com/SohanPatil810
+
+⭐ Support
+If you found this project useful, please consider giving it a ⭐ Star on GitHub.
+
+Your support helps the project grow and motivates future improvements.
+
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
